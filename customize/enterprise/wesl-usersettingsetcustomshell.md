@@ -67,6 +67,10 @@ The possible actions are defined in the following table:
 <td><p>2</p></td>
 <td><p>Shuts down the device.</p></td>
 </tr>
+ <tr class="even">
+     <td><p2>3</p></td>
+     <td><p>Do Nothing</p></td>
+    </tr>
 </tbody>
 </table>
 
@@ -99,6 +103,10 @@ The possible actions are defined in the following table:
 <td><p>2</p></td>
 <td><p>Shuts down the device.</p></td>
 </tr>
+     <tr class="even">
+     <td><p2>3</p></td>
+     <td><p>Do Nothing</p></td>
+    </tr>
 </tbody>
 </table>
 
